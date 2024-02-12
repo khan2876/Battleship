@@ -31,7 +31,7 @@ The initial easy board could look like this:
 
 After five shots it could look like this:
 - O - - -  
-- - - -- O  
+- - - - O  
 - X X - -  
 - - - O -  
 - - - - -  
