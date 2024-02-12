@@ -23,7 +23,7 @@ If they shoot at a space that's already revealed, tell them to try again but do 
 
 The board should print after each turn.  
 The initial easy board could look like this: 
--- -- -- -- --  
+- - - - -  
 - - - - -  
 - - - - -  
 - - - - -  
@@ -32,7 +32,7 @@ The initial easy board could look like this:
 After five shots it could look like this:
 - O - - -  
 - - - -- O  
--- X X -- --  
+- X X - -  
 - - - O -  
 - - - - -  
 
