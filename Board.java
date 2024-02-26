@@ -14,6 +14,7 @@ public class Board {
     /*
      * Possible methods to make: 
      * boolean isRevealed( location, ) - to check if a cell has been fired at already
+     * ? revealCell(location) - fire at a particular location on the board
      * boolean gameOver()
      * int numShotsMade() - count of how many shots have already been fired
      * printBoard()
